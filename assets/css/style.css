@@ -1,0 +1,22 @@
+h1{
+    width: 100%;
+    text-align: center;
+    color:hotpink;
+    font-size: 100px;
+    font-family: spirax;
+    text-decoration: underline;
+}
+
+button:hover {
+    background-color: #4CAF50; /* Green */
+    color: white;
+    margin: 0;
+}
+
+.maincontent{
+    text-align: center;
+    color: teal;
+}
+body{
+    background: yellow;
+}
