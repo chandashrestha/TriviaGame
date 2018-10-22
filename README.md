@@ -1,6 +1,8 @@
 # TriviaGame
-JavaScript Assignment 2
-This assignment, You'll answer 10 Trivia questions 
+
+Link: https://chandashrestha.github.io/TriviaGame/
+
+You'll answer 10 Trivia questions 
 
 The player has 30 seconds to answer one question or will run out of time and another question will appear.
 
